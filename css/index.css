@@ -3,3 +3,19 @@
     height: 120px;
     border-radius: 4px;
 }
+
+#banner {
+    display: flex;
+    justify-content: center;
+    margin: 2rem auto;
+}
+
+.hero-banner {
+    width: 90%;
+    border-radius: 4px;
+}
+
+.courses {
+    background: #f5f5f5;
+    padding: 1.5rem;
+}
